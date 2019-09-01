@@ -1,4 +1,6 @@
 # Sortable
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FEZO801%2FSortable.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FEZO801%2FSortable?ref=badge_shield)
+
 Sortable is a <s>minimalist</s> JavaScript library for reorderable drag-and-drop lists.
 
 Demo: http://rubaxa.github.io/Sortable/
@@ -634,3 +636,6 @@ LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION
 OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION
 WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FEZO801%2FSortable.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FEZO801%2FSortable?ref=badge_large)
